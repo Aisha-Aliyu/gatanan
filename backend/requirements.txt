@@ -19,7 +19,7 @@ idna==3.18
 jiter==0.15.0
 markdown-it-py==4.2.0
 mdurl==0.1.2
-multidict==6.7.1
+multidict==6.9.1
 openai==2.43.0
 propcache==0.5.2
 pycparser==3.0
